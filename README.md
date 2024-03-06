@@ -1,4 +1,4 @@
-[[![MasterHead]([https://www.canva.com/design/DAF-wmtOi9Y/nR7lthqzDVtMooBRtFrCmQ/edit?utm_content=DAF-wmtOi9Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))](https://www.canva.com/design/DAF-wmtOi9Y/nR7lthqzDVtMooBRtFrCmQ/edit?utm_content=DAF-wmtOi9Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img align="center" src="https://github.com/whoayushh/whoayushh/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Ayush" />
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Sofware Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
