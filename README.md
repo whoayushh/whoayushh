@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mail.ayushkumar2002@gmail.com**
 
-- ⚡ Fun fact **I speak fluent in Java**
+- ⚡ Fun fact **I speak fluent Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
