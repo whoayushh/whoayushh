@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/whoayushh/whoayushh/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Ayush" />
+<a href="https://whoayushh.github.io/Portfolio"><img align="center" src="https://github.com/whoayushh/whoayushh/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Ayush" /></a>
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Sofware Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
