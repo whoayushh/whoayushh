@@ -1,139 +1,61 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=F7C948&center=true&vCenter=true&width=820&lines=Ayush+Kumar;Specialist+Programmer+%40+Infosys;Cloud-Native+Backend+%7C+ASP.NET+Core+%7C+Spring+Boot;AI-Assisted+Engineering+%26+Agentic+AI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,100:2b2b2b&height=170&section=header&text=Ayush%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=F7C948&center=true&vCenter=true&width=600&lines=Specialist+Programmer+%40+Infosys;Microsoft+Purview+%7C+ASP.NET+Core+%7C+Azure;Spring+Boot+%7C+Microservices+%7C+SQL;Agentic+AI+%7C+Semantic+Kernel" alt="Typing SVG" />
 
 <p>
   <a href="mailto:mail.ayushkumar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=whoayushh&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<img src="https://img.shields.io/badge/Infosys-Specialist%20Programmer-007CC3?style=flat-square" />
+<img src="https://img.shields.io/badge/Equifax-Ex--Intern-B5121B?style=flat-square" />
+<img src="https://img.shields.io/badge/Hyderabad-India-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat-square" />
 
 </div>
 
----
-
-## `~/about`
-
-```csharp
-public sealed record Engineer
-{
-    public string Name        => "Ayush Kumar";
-    public string Role        => "Specialist Programmer @ Infosys (Hyderabad, IN)";
-    public string Domain      => "Data governance & compliance — Microsoft Purview";
-    public string[] Core      => ["C#", "Java", "Python", "TypeScript", "SQL"];
-    public string[] Backend   => ["ASP.NET Core", "Entity Framework", "Spring Boot", "REST APIs", "Microservices"];
-    public string[] Cloud     => ["Azure", "CI/CD", "Git"];
-    public string[] AI        => ["GitHub Copilot", "Claude Code", "Cursor", "Semantic Kernel", "Agentic AI"];
-    public string Education   => "B.Tech CSE (CGPA 8.49/10)";
-    public string Philosophy  => "Clean contracts, testable services, observable systems.";
-    public string OpenTo      => "Backend / Cloud / AI-integrated engineering roles";
-}
-```
-
----
-
-## `~/experience`
-
-| Role | Org | Period | Focus |
-|---|---|---|---|
-| **Specialist Programmer** | Infosys, Hyderabad | Aug 2025 – Present | Building and maintaining backend services for **Microsoft Purview** (data governance & compliance) using ASP.NET Core, Entity Framework, Azure, REST APIs and CI/CD pipelines |
-| **Software Development Intern** | Equifax, Pune | Feb 2025 – Jun 2025 | Developed **Java / Spring Boot microservices**; optimized SQL queries for performance |
-
----
-
-## `~/tech-stack`
+<br>
 
 <div align="center">
 
-**Languages**
+### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,ts,js,react,nodejs,azure,postgres,git&perline=12" />
 
-**Backend & Cloud**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,azure,git,github&perline=6" />
+### AI-Assisted Engineering
 
-**Frontend & Testing**
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Semantic%20Kernel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-6E40C9?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,visualstudio&perline=6" />
+<br><br>
 
-</div>
-
----
-
-## `~/architecture-mindset`
-
-How I approach a typical service:
+### Flow
 
 ```mermaid
 flowchart LR
-    C[Client / UI] -->|HTTPS| G[API Layer<br/>ASP.NET Core / Spring Boot]
-    G --> S[Service Layer<br/>Business Logic + Validation]
-    S --> R[(Repository<br/>EF Core / JPA)]
-    R --> D[(SQL Database)]
-    S --> Q[[Async Messaging]]
-    G -.-> O[Logging · Metrics · Tracing]
-    subgraph Delivery
-      P[Git] --> CI[CI Pipeline<br/>Build · Test · Scan] --> CD[CD to Azure]
-    end
+    A[Client] --> B[API<br/>ASP.NET Core / Spring Boot] --> C[Services] --> D[(SQL)]
+    B -.-> E[CI/CD · Azure]
 ```
 
-**Engineering principles**
+<br>
 
-- **Separation of concerns** — thin controllers, domain logic in services, persistence behind repositories
-- **Test early** — unit tests (JUnit / xUnit) around business logic, integration tests around contracts
-- **Performance-aware** — query plans, indexing and N+1 avoidance before premature caching
-- **Automate delivery** — every merge goes through a CI/CD pipeline
-- **Observability by default** — structured logs and traceable requests
+### GitHub Stats
 
----
-
-## `~/ai-assisted-engineering`
-
-I treat AI tools as force multipliers, not replacements for engineering judgment.
-
-- **Tooling:** GitHub Copilot · Claude Code · Cursor — for scaffolding, refactoring, test generation and code review assistance
-- **Agentic AI:** studied agent design patterns (planning, tool use, memory) and orchestration with **Microsoft Semantic Kernel**
-- **Practice:** AI drafts → I review, test and own every line that ships
-
----
-
-## `~/featured-projects`
-
-> Replace the placeholders below with your pinned repositories and real links.
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🎬 **[Full-Stack Video Streaming Platform](https://github.com/whoayushh/REPO-NAME)** | MERN, REST APIs | Auth, video upload & playback, responsive UI |
-| 🔧 **[Project Name](https://github.com/whoayushh/REPO-NAME)** | Spring Boot, SQL | One line on the problem and your solution |
-| ☁️ **[Project Name](https://github.com/whoayushh/REPO-NAME)** | ASP.NET Core, Azure | One line on the problem and your solution |
-
----
-
-## `~/github-stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=whoayushh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoayushh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=whoayushh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoayushh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com/?user=whoayushh&theme=tokyonight&hide_border=true" />
 
-</div>
+<br>
 
----
-
-## `~/currently`
-
-- 🔭 Deepening expertise in **cloud-native backend systems** on Azure
-- 🤖 Building with **Semantic Kernel** and agentic AI workflows
-- 🌱 Exploring system design, distributed systems and observability
-- 💬 Ask me about: **ASP.NET Core · Spring Boot · MERN · Azure · AI-assisted development**
-- 📫 Reach me: [mail.ayushkumar2002@gmail.com](mailto:mail.ayushkumar2002@gmail.com)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,100:2b2b2b&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,100:2b2b2b&height=90&section=footer" width="100%" />
 
 </div>
