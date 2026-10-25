@@ -1,38 +1,139 @@
-<a href="https://whoayushh.github.io/Portfolio"><img align="center" src="https://github.com/whoayushh/whoayushh/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Ayush" /></a>
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Sofware Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=F7C948&center=true&vCenter=true&width=820&lines=Ayush+Kumar;Specialist+Programmer+%40+Infosys;Cloud-Native+Backend+%7C+ASP.NET+Core+%7C+Spring+Boot;AI-Assisted+Engineering+%26+Agentic+AI" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoayushh&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush" /> </p>
-
-<p align="left"> <a href="https://twitter.com/whoayushh" target="_blank"><img src="https://img.shields.io/twitter/follow/whoayushh?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
-- 🔭 I’m currently working on **A Full Stack Video Streaming Platform**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **mail.ayushkumar2002@gmail.com** 
-
-- ⚡ Fun fact **I speak fluent Java**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whoayushh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-130b06218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/whoayushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-
+<p>
+  <a href="mailto:mail.ayushkumar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=whoayushh&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>   
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
+## `~/about`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoayushh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ayush" /></p>
+```csharp
+public sealed record Engineer
+{
+    public string Name        => "Ayush Kumar";
+    public string Role        => "Specialist Programmer @ Infosys (Hyderabad, IN)";
+    public string Domain      => "Data governance & compliance — Microsoft Purview";
+    public string[] Core      => ["C#", "Java", "Python", "TypeScript", "SQL"];
+    public string[] Backend   => ["ASP.NET Core", "Entity Framework", "Spring Boot", "REST APIs", "Microservices"];
+    public string[] Cloud     => ["Azure", "CI/CD", "Git"];
+    public string[] AI        => ["GitHub Copilot", "Claude Code", "Cursor", "Semantic Kernel", "Agentic AI"];
+    public string Education   => "B.Tech CSE (CGPA 8.49/10)";
+    public string Philosophy  => "Clean contracts, testable services, observable systems.";
+    public string OpenTo      => "Backend / Cloud / AI-integrated engineering roles";
+}
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoayushh&show_icons=true&locale=en&theme=tokyonight" alt="Ayush" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoayushh&&theme=tokyonight" alt="Ayush" /></p>
+## `~/experience`
+
+| Role | Org | Period | Focus |
+|---|---|---|---|
+| **Specialist Programmer** | Infosys, Hyderabad | Aug 2025 – Present | Building and maintaining backend services for **Microsoft Purview** (data governance & compliance) using ASP.NET Core, Entity Framework, Azure, REST APIs and CI/CD pipelines |
+| **Software Development Intern** | Equifax, Pune | Feb 2025 – Jun 2025 | Developed **Java / Spring Boot microservices**; optimized SQL queries for performance |
+
+---
+
+## `~/tech-stack`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,postgres&perline=6" />
+
+**Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,azure,git,github&perline=6" />
+
+**Frontend & Testing**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,visualstudio&perline=6" />
+
+</div>
+
+---
+
+## `~/architecture-mindset`
+
+How I approach a typical service:
+
+```mermaid
+flowchart LR
+    C[Client / UI] -->|HTTPS| G[API Layer<br/>ASP.NET Core / Spring Boot]
+    G --> S[Service Layer<br/>Business Logic + Validation]
+    S --> R[(Repository<br/>EF Core / JPA)]
+    R --> D[(SQL Database)]
+    S --> Q[[Async Messaging]]
+    G -.-> O[Logging · Metrics · Tracing]
+    subgraph Delivery
+      P[Git] --> CI[CI Pipeline<br/>Build · Test · Scan] --> CD[CD to Azure]
+    end
+```
+
+**Engineering principles**
+
+- **Separation of concerns** — thin controllers, domain logic in services, persistence behind repositories
+- **Test early** — unit tests (JUnit / xUnit) around business logic, integration tests around contracts
+- **Performance-aware** — query plans, indexing and N+1 avoidance before premature caching
+- **Automate delivery** — every merge goes through a CI/CD pipeline
+- **Observability by default** — structured logs and traceable requests
+
+---
+
+## `~/ai-assisted-engineering`
+
+I treat AI tools as force multipliers, not replacements for engineering judgment.
+
+- **Tooling:** GitHub Copilot · Claude Code · Cursor — for scaffolding, refactoring, test generation and code review assistance
+- **Agentic AI:** studied agent design patterns (planning, tool use, memory) and orchestration with **Microsoft Semantic Kernel**
+- **Practice:** AI drafts → I review, test and own every line that ships
+
+---
+
+## `~/featured-projects`
+
+> Replace the placeholders below with your pinned repositories and real links.
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🎬 **[Full-Stack Video Streaming Platform](https://github.com/whoayushh/REPO-NAME)** | MERN, REST APIs | Auth, video upload & playback, responsive UI |
+| 🔧 **[Project Name](https://github.com/whoayushh/REPO-NAME)** | Spring Boot, SQL | One line on the problem and your solution |
+| ☁️ **[Project Name](https://github.com/whoayushh/REPO-NAME)** | ASP.NET Core, Azure | One line on the problem and your solution |
+
+---
+
+## `~/github-stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=whoayushh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoayushh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com/?user=whoayushh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `~/currently`
+
+- 🔭 Deepening expertise in **cloud-native backend systems** on Azure
+- 🤖 Building with **Semantic Kernel** and agentic AI workflows
+- 🌱 Exploring system design, distributed systems and observability
+- 💬 Ask me about: **ASP.NET Core · Spring Boot · MERN · Azure · AI-assisted development**
+- 📫 Reach me: [mail.ayushkumar2002@gmail.com](mailto:mail.ayushkumar2002@gmail.com)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,100:2b2b2b&height=100&section=footer" width="100%" />
+
+</div>
